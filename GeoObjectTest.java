@@ -11,6 +11,6 @@ public class GeoObjectTest {
         //GeometricObject geoObj2 = new GeometricObject();
         Rectangle rectangle = new Rectangle();
         GeometricObject geoObj3 = new Rectangle();
-
+        System.out.println(Rectangle.toString());
     }
 }
